@@ -134,46 +134,46 @@ h2 span{
 }
 h2 span:nth-child(1)
 {
-    animation-delay: .5s;
+    animation-delay: 1s;
 }
 h2 span:nth-child(2)
 {
-    animation-delay: 1s;
+    animation-delay: 1.5s;
 }
 h2 span:nth-child(3)
 {
-    animation-delay: 1.5s;
+    animation-delay: 2s;
 }
 h2 span:nth-child(4)
 {
-    animation-delay: 2s;
+    animation-delay: 2.5s;
 }
 h2 span:nth-child(5)
 {
-    animation-delay: 2.5s;
+    animation-delay: 3s;
 }
 h2 span:nth-child(6)
 {
-    animation-delay: 3s;
+    animation-delay: 3.5s;
 }
 h2 span:nth-child(7)
 {
-    animation-delay: 3.5s;
+    animation-delay: 4s;
 }
 h2 span:nth-child(8)
 {
-    animation-delay: 4s;
+    animation-delay: 4.5s;
 }
 h2 span:nth-child(9)
 {
-    animation-delay: 4.5s;
+    animation-delay: 5s;
 }
 h2 span:nth-child(10)
 {
-    animation-delay: 5s;
+    animation-delay: 5.5s;
 }
 
 h2 span:nth-child(11)
 {
-    animation-delay: 5.5s;
+    animation-delay: 6s;
 }
